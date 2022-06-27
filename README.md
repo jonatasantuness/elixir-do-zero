@@ -16,6 +16,7 @@
 - [Keyword](1-fundamentos/keyword.md)
 - [Map](1-fundamentos/maps.md)
 - [Enum](1-fundamentos/enum.md)
+- [Pattern Matching](1-fundamentos/pattern-matching.md)
 
 ## Links úteis
 
