@@ -11,6 +11,7 @@
 - [IEX](1-fundamentos/iex.md)
 - [Tipos Básicos](1-fundamentos/tipos-basicos.md)
 - [Imutabilidade](1-fundamentos/imutabilidade.md)
+- [Listas](1-fundamentos/listas.md)
 
 ## Links úteis
 
