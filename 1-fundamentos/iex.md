@@ -21,3 +21,11 @@ O IEX tabém exibe uma documentação com exemplos para métodos específicos co
 ```erl
 h String.slice
 ```
+
+Digitando `String.` no terminal, podemos visualizar todas os métodos disponíveis para o módulo String (talvez tenha digitar `tab` para poder ver).
+
+Ao digitar `Kernel.`, serão exibidas no temrinal, as funções embutidas do Elixir que podemos utilizar diretamente sem precisar se preocupar com módulos.
+
+Repare que quando visualizamos os métodos disponíveis, existe uma barra e um número ao lado deles, isso representa o numero de argumentos que um método recebe:
+
+![Kernel - argumentos](../assets/args-kernel.png)
