@@ -7,7 +7,7 @@ As listas são coleções de valores que diversos tipos.
 # [1, "two", 3, :four]
 ```
 
-No Elixir o tipo `List` é implementando de forma encadeada ou lista ligada, ou seja, os elementos da lista estão contidos na memória um após o outro, de forma que qualquer operações sobre uma lista, tem execução linear, isso quer dizer, quanto maior a lista maior o tempo para percorrê-la.
+No Elixir o tipo `List` é implementando de forma encadeada (lista ligada), ou seja, um elemento aponta para o outro e assim por diante, isso porque os elementos não estão contidos em um endereço de memória, de forma que qualquer operações sobre uma lista, tem execução linear, isso quer dizer, quanto maior a lista maior o tempo para percorrê-la.
 
 Diferente de um array/vetor em JavaScript por exemplo, onde posso acessar um elemento da seguinte forma `produtos[2]`, em Elixir normalmente a gente percorre a lista para fazer as operações.
 
