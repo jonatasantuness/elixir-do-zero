@@ -10,6 +10,7 @@
 - [Instalando o Erlang/Elixir](1-fundamentos/instalacao.md)
 - [IEX](1-fundamentos/iex.md)
 - [Tipos Básicos](1-fundamentos/tipos-basicos.md)
+- [Imutabilidade](1-fundamentos/imutabilidade.md)
 
 ## Links úteis
 
