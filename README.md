@@ -12,6 +12,7 @@
 - [Tipos Básicos](1-fundamentos/tipos-basicos.md)
 - [Imutabilidade](1-fundamentos/imutabilidade.md)
 - [Listas](1-fundamentos/listas.md)
+- [Tuplas](1-fundamentos/tuplas.md)
 
 ## Links úteis
 
