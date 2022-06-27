@@ -9,6 +9,7 @@
 - [Por que estudar Elixir e Programação Funcional?](1-fundamentos/por-que-elixir.md)
 - [Instalando o Erlang/Elixir](1-fundamentos/instalacao.md)
 - [IEX](1-fundamentos/iex.md)
+- [Tipos Básicos](1-fundamentos/tipos-basicos.md)
 
 ## Links úteis
 
