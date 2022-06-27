@@ -17,6 +17,7 @@
 - [Map](1-fundamentos/maps.md)
 - [Enum](1-fundamentos/enum.md)
 - [Pattern Matching](1-fundamentos/pattern-matching.md)
+- [Operador Pipe](1-fundamentos/pipe-operator.md)
 
 ## Links úteis
 
