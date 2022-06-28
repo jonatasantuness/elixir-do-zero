@@ -19,6 +19,13 @@
 - [Pattern Matching](1-fundamentos/pattern-matching.md)
 - [Operador Pipe](1-fundamentos/pipe-operator.md)
 
+### Seção 2 - Projeto FizzBuzz
+
+- [Projeto](2-fizz-buzz/projeto.md)
+- [Lendo o arquivo](2-fizz-buzz/lendo-arquivo.md)
+- [Convertendo String para List](2-fizz-buzz/convertendo-string-list.md)
+- [Testes](2-fizz-buzz/testes.md)
+
 ## Links úteis
 
 - [Visão geral do curso](https://whimsical.com/boas-vindas-ao-curso-elixir-e-phoenix-do-zero-SsRo16x4Za2EGy4VbjjirE)
