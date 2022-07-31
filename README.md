@@ -25,6 +25,15 @@
 - [Lendo o arquivo](2-fizz-buzz/lendo-arquivo.md)
 - [Convertendo String para List](2-fizz-buzz/convertendo-string-list.md)
 - [Testes](2-fizz-buzz/testes.md)
+- [Credo](3-exmon/ex_mon/credo.md)
+
+### Seção 3 - Projeto ExMon
+
+- [Projeto](3-exmon/projeto.md)
+- [Iniciando o Projeto](3-exmon/get-started.md)
+- [Criando Players com Struct](3-exmon/struct.md)
+- [Exibindo o Estado do jogo](3-exmon/exibindo-estado.md)
+- [Movimentos dos players](3-exmon/movimentos-players.md)
 
 ## Links úteis
 
